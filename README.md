@@ -43,11 +43,9 @@ My goals with this page are to:</div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td>
+  
+  </tr></table>  
 
 <br/>  
 
