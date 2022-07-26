@@ -1,4 +1,4 @@
-[[### <div align="center">Hey!
+### <div align="center">Hey!
 I'm Rahul, a hardware security verification engineer and an automation enthusiast.
 
 My goals with this page are to:</div>  
@@ -42,7 +42,12 @@ My goals with this page are to:</div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 </div>
-  
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -81,5 +86,3 @@ My goals with this page are to:</div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-](https://profilinator.rishav.dev)
-](https://profilinator.rishav.dev)
