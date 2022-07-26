@@ -59,7 +59,7 @@ My goals with this page are to:</div>
 
 ## Github Stats  
 <div align="center">
-  ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsdas&show_icons=true&theme=vision-friendly-dark)
+[Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsdas&show_icons=true&theme=vision-friendly-dark)
 </div>  
 
 <br/>  
