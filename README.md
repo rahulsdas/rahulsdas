@@ -1,4 +1,4 @@
-### <div align="center">Hey!
+### <div align="center">Hey there! 👋
 I'm Rahul, a hardware security verification engineer and an automation enthusiast.
 
 My goals with this page are to:</div>  
