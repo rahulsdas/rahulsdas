@@ -58,9 +58,7 @@ My goals with this page are to:</div>
 
 
 ## Github Stats  
-<div align="center">
-[Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsdas&show_icons=true&theme=vision-friendly-dark)
-</div>  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br/>  
 
