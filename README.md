@@ -74,7 +74,6 @@ My goals with this page are to:</div>
 
 <br/>  
 <br/> 
-<div align="center">**What I listen to at work**</div>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31duzdd4kpju5hrznik27lwro4q4&cover_image=true&theme=compact" /></div>  
 
