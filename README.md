@@ -85,9 +85,7 @@ My goals with this page are to:</div>
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulsdas&&style=flat-square" align="center" />
-</div>  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br />
 
