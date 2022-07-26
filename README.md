@@ -20,6 +20,7 @@ My goals with this page are to:</div>
 
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -49,8 +50,9 @@ My goals with this page are to:</div>
 </div>
 
 </td>
-  
-  </tr></table>  
+</tr>
+</table>
+</div>
 
 <br/>  
 
